@@ -1,2 +1,0 @@
-insert into todo (id , description , done , target_date ,username)
-values(1 , 'aws' , false , CURRENT_DATE() , 'ashu' );
