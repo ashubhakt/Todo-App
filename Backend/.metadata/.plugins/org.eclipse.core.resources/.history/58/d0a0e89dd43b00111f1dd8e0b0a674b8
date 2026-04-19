@@ -1,0 +1,4 @@
+logging.level.org.springframework=info
+#spring.security.user.name=ashu
+#spring.security.user.password=ashu123
+spring.jpa.defer-datasource-initialization=true

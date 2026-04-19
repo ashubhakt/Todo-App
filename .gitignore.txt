@@ -1,0 +1,15 @@
+# Node
+Frontend/node_modules
+Frontend/build
+
+# Spring Boot
+Backend/target
+
+# Eclipse
+Backend/.metadata
+
+# Logs
+*.log
+
+# Env
+.env
